@@ -36,5 +36,4 @@ def solution(phone_book):
 효율성  테스트
 테스트 1 〉	통과 (5.37ms, 10.8MB)
 테스트 2 〉	통과 (5.25ms, 10.9MB)
-
 '''
