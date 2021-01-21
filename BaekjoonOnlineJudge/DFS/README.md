@@ -1,1 +1,1 @@
-https://www.acmicpc.net/problemset?sort=ac_desc&algo=127
+https://www.acmicpc.net/step/24
