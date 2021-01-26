@@ -3,6 +3,7 @@ from collections import deque
 X = int(input())
 memo = [0] * (X+1)
 cur = deque([X])
+
 while cur and memo[1] == 0:
   print(cur)
   c = cur.popleft()
